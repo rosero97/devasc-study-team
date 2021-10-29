@@ -1,0 +1,10 @@
+
+<<<<<<< HEAD
+=======
+Estamos haciendo Heiver
+>>>>>>> test
+Primera linea
+Segunda linea
+estamos empezando a entender git
+
+esta linea se agrego estando en la rama de caracteristicas
